@@ -1,4 +1,4 @@
-Linked List in C
+******Linked List in C******
 
 To execute program in terminal:
 ./main --run
